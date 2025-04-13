@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Rojo
+namespace Azul
 {
     public partial class Form2: Form
     {
