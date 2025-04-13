@@ -18,6 +18,10 @@ namespace Azul
         {
             InitializeComponent();
             InicializarUsuarios();
+            InicializarNuevo Usuriario();
+            InicializarNuevoTrabajador();
+            InicializarNuevaConstructora();
+            InicializarConstructoraAntigua();
 
         }
 
